@@ -1,1 +1,2 @@
-# keikuethas-team-vk-bot
+# VkNetCallbackTemplate
+Реализация Callback на ASP.NET Core
